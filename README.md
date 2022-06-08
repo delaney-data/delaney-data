@@ -17,12 +17,8 @@
 
 <h2>📝 PowerShell Projects:</h2>
 
-- <b>Data Scraping</b>
-  - [In Progress]
-- <b>Manipulation of Data (Power Query)</b>
-  - [In Progress]</b></i>
-- <b>Visualization (Power BI)</b>
-  - [In Progress]
+- <b>Administrative Tasks</b>
+  - [Bulk Create New Folders]
 
 
 
