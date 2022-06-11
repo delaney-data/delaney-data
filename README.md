@@ -18,7 +18,7 @@
 <h2>📝 PowerShell Projects:</h2>
 
 - <b>Administrative Tasks</b>
-  - [Bulk Create New Folders]
+  - [Bulk Create New Folders](https://github.com/delaney-data/PowerShellBulkNewFolders)
 
 
 
