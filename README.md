@@ -1,21 +1,25 @@
-<h1>Hi, I'm Delaney!</h1>
+<h1>Hi, I'm Delaney! 
+<p>Welcome to my respository of analysis projects and more.</p></h1>
 
-<h2>📚 Currently Studying:</h2>
+<!--<p><b>My background:</b></p>
+<p>I have 6+ years experience with building reports, manipulating data, and showcasing data insights within Excel. During this time, my interest has been peaked with relational databases, which to my delight, are very simlar to table schema/data types witin Excel. </p>-->
+
+Languages:
 <ul>
-  <li>SQL - PostgreSQL <i>[Complete SQL Bootcamp 2022]</i></li>
-  <li>Google IT Support <i>[Professional Certification]</i></li>
-</ul>  
+<li>SQL (PostgreSQL)</li>
+<li>Power Shell</li>
+</ul>
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>👨‍💻 Data Analysis:</h2>
 
-- <b>Data Scraping</b>
-  - [In Progress]
-- <b>Manipulation of Data (Power Query)</b>
-  - [In Progress]</b></i>
-- <b>Visualization (Power BI)</b>
-  - [In Progress]
+- <b>Analyzing with SQL</b>
+  - Importing Data & Creating Tables
+  - Data Analysis Part 1: AGGREGATE, GROUP BY, MAX(), MIN(), PERCENTAGES, INSERT
+  - Data Analysis Part 2: INNER JOINS, SUBQUERY, VIEWS
+  - Data Export: Using COPY to export your queries
 
-<h2>📝 PowerShell Projects:</h2>
+
+<h2>📝 Power Shell Projects:</h2>
 
 - <b>Administrative Tasks</b>
   - [Bulk Create New Folders](https://github.com/delaney-data/PowerShellBulkNewFolders)
