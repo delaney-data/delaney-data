@@ -13,7 +13,7 @@ Languages:
 <h2>👨‍💻 Data Analysis:</h2>
 
 - <b>Analyzing with SQL</b>
-  - Importing Data & Creating Tables
+  - Creating Tables with SQL and Importing Data
   - Data Analysis Part 1: AGGREGATE, GROUP BY, MAX(), MIN(), PERCENTAGES, INSERT
   - Data Analysis Part 2: INNER JOINS, SUBQUERY, VIEWS
   - Data Export: Using COPY to export your queries
