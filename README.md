@@ -7,19 +7,19 @@
 Languages:
 <ul>
 <li>SQL (PostgreSQL)</li>
-<li>Power Shell</li>
+<li>PowerShell</li>
 </ul>
 
-<h2>👨‍💻 Data Analysis:</h2>
+<h2>👩‍💻 Data Analysis:</h2>
 
 - <b>Analyzing with SQL</b>
-  - Creating Tables with SQL and Importing Data
+  - [Creating Tables with SQL and Importing Data](https://github.com/delaney-data/SQL-CreateTablesImport)
   - Data Analysis Part 1: AGGREGATE, GROUP BY, MAX(), MIN(), PERCENTAGES, INSERT
   - Data Analysis Part 2: INNER JOINS, SUBQUERY, VIEWS
   - Data Export: Using COPY to export your queries
 
 
-<h2>📝 Power Shell Projects:</h2>
+<h2>📝 PowerShell Projects:</h2>
 
 - <b>Administrative Tasks</b>
   - [Bulk Create New Folders](https://github.com/delaney-data/PowerShellBulkNewFolders)
