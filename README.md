@@ -14,7 +14,7 @@ Languages:
 
 - <b>Analyzing with SQL</b>
   - [Creating Tables with SQL and Importing Data](https://github.com/delaney-data/SQL-CreateTablesImport)
-  - Data Analysis Part 1: `AGGREGATE`, `GROUP BY`, `MAX()`, `MIN()`, `INSERT`
+  - [Data Analysis Part 1:](https://github.com/delaney-data/SQL-DataAnalysis)`AGGREGATE`, `GROUP BY`, `MAX()`, `MIN()`, `INSERT`
   - Data Analysis Part 2: `INNER JOINS`, `SUBQUERIES`, `VIEWS`
   - Data Export: Using `COPY` to export your queries
 
