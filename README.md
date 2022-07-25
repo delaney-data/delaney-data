@@ -24,10 +24,16 @@ Languages:
 - <b>Administrative Tasks</b>
   - [Bulk Create New Folders](https://github.com/delaney-data/PowerShellBulkNewFolders)
 
+## :handshake: Connect with me:
+<ul>
+    <li>
+        <a href="https://linkedin.com/in/delaneyeu" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+    </li>
+    <li>
+        <a href="https://www.codewars.com/users/delaney-data" rel="noopener noreferrer" target="_blank">Code Wars</a>
+    <img src="https://www.codewars.com/users/delaney-data/badges/micro"/></li>
+</ul>
 
-
-<h2> 🤳 Connect with me:</h2>
-https://linkedin.com/in/delaneyeu
 
 <!--
 
