@@ -12,10 +12,10 @@ Languages:
 
 <h2>👩‍💻 Data Analysis:</h2>
 
-- <b>Analyzing with SQL</b>
-  - [Creating Tables with SQL and Importing Data](https://github.com/delaney-data/SQL-CreateTablesImport)
-  - [Data Analysis using SQL ](https://github.com/delaney-data/SQL-DataAnalysis): `AGGREGATE`, `GROUP BY`, `MAX()`,`INSERT`, `INNER JOINS`, `SUBQUERIES`, `VIEWS`
-  - Data Export: Using `COPY` to export your queries
+ - [Creating Tables with SQL and Importing Data](https://github.com/delaney-data/SQL-CreateTablesImport)
+    - Concepts: Building Tables, Data Types & Constraints, Export data with `COPY`
+ - [Data Analysis using SQL ](https://github.com/delaney-data/SQL-DataAnalysis)
+    - Concepts: `SUM`, `GROUP BY`, `INSERT`, `INNER JOIN`, Math Operators, and Views
 
 
 <h2>📝 PowerShell Projects:</h2>
