@@ -1,16 +1,15 @@
-<h1>Hi, I'm Delaney! 
-<p>Welcome to my respository of analysis projects and more.</p></h1>
+<p align="center"><h1>Hi, I'm Delaney!</h1>
+Welcome to my respository of projects related to data science, SQL, PowerShell, and more.
+<br>
+<br>
+<img src="https://i.imgur.com/jkqLZjm.png" width ="30%" height ="30%">
 
-<!--<p><b>My background:</b></p>
-<p>I have 6+ years experience with building reports, manipulating data, and showcasing data insights within Excel. During this time, my interest has been peaked with relational databases, which to my delight, are very simlar to table schema/data types witin Excel. </p>-->
+Interests: 
+- Data Science / Data Analysis for Business Insights
+- Data Engineering 
+- Database Management
 
-Languages:
-<ul>
-<li>SQL (PostgreSQL)</li>
-<li>PowerShell</li>
-</ul>
-
-<h2>👩‍💻 Data Analysis:</h2>
+## 👩‍💻 Data Analysis
 
  - [Creating Tables with SQL and Importing Data](https://github.com/delaney-data/SQL-CreateTablesImport)
     - Concepts: Building Tables, Data Types & Constraints, Export data with `COPY`
@@ -18,12 +17,12 @@ Languages:
     - Concepts: `SUM`, `GROUP BY`, `INSERT`, `INNER JOIN`, Math Operators, and Views
 
 
-<h2>📝 PowerShell Projects:</h2>
+## 📝 PowerShell Projects
 
 - <b>Administrative Tasks</b>
   - [Bulk Create New Folders](https://github.com/delaney-data/PowerShellBulkNewFolders)
 
-## :handshake: Connect with me:
+## :handshake: Connect with me
 <ul>
     <li>
         <a href="https://linkedin.com/in/delaneyeu" rel="noopener noreferrer" target="_blank">LinkedIn</a>
