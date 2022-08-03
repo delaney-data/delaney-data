@@ -1,13 +1,13 @@
-<p align="center"><h1>Hi, I'm Delaney!</h1>
-Welcome to my respository of projects related to data science, SQL, PowerShell, and more.
-<br>
-<br>
-<img src="https://i.imgur.com/jkqLZjm.png" width ="30%" height ="30%">
+<p align="center"><h2>Hi, I'm Delaney! 
+<br><br>Welcome to my respository of projects related to Data Science, SQL, PowerShell, and more. </h2></p>
+
+<img src="https://i.imgur.com/jkqLZjm.png" width ="40%" height ="40%">
 
 Interests: 
 - Data Science / Data Analysis for Business Insights
 - Data Engineering 
 - Database Management
+- Lots of Coffee
 
 ## 👩‍💻 Data Analysis
 
@@ -19,7 +19,7 @@ Interests:
 
 ## 📝 PowerShell Projects
 
-- <b>Administrative Tasks</b>
+- Administrative Tasks
   - [Bulk Create New Folders](https://github.com/delaney-data/PowerShellBulkNewFolders)
 
 ## :handshake: Connect with me
