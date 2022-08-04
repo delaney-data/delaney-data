@@ -22,6 +22,16 @@ Interests:
 - Administrative Tasks
   - [Bulk Create New Folders](https://github.com/delaney-data/PowerShellBulkNewFolders)
 
+## :bulb: Future Projects
+- Database Concepts
+  - Normalization with SQL
+- Data Cleaning and Transforming
+   - PowerQuery
+- Data Visualization 
+  - PowerBI
+ - Scraping Data from a Website
+
+
 ## :handshake: Connect with me
 <ul>
     <li>
